@@ -1,0 +1,34 @@
+/*
+Exemplos de classes
+Projeto: Escola
+*/
+
+Aluno
+	id
+	nome
+	telefone
+	data nascimento
+
+Professor
+	id
+	nome
+	telefone
+	salario
+
+Disciplina
+	id
+	nome
+	professsor
+
+Curso
+	id
+	nome
+	valor
+	disciplinas
+
+Matricula
+	id
+	aluno
+	curso
+	data
+	observacao
